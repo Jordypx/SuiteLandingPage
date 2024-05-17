@@ -37,3 +37,4 @@ This is a solution to the [Suite landing page challenge on Frontend Mentor](http
 
 - GitHub - [@codepalacios](https://github.com/codepalacios)
 - Frontend Mentor - [@codepalacios](https://www.frontendmentor.io/profile/codepalacios)
+# SuiteLandingPage
